@@ -1,5 +1,4 @@
-In order to run this successfully through Android Studio, Instant Run must be disabled 
-(APK split lib defined multiple times error otherwise).
+If there is an "APK split lib defined multiple times" error: disable Instant Run
 
 1. Click on the file menu on the top left of the Android Studio toolbar.
 2. Click on the settings button in the dropdown menu
