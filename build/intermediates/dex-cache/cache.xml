@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/71c0310587484fcad557e9b197d3091162a17aa2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_792557d2d78ba2c2a65ecc17244d5f995ed3f738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/a23a18480697f012eb816fb6e02b1dd1719a4bd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_becbedba7f737a0f44104e57f1ef46e504c7af71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/cf962cfbe6e7d639ef5c545b5ab9c354c9d8244f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18ff719142065c5e48e3a33d580fbb802b670712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c481fd00abf3421ea966fabd198c48430854d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/205ec0f7b67e4452023fbb64eeb9ae074ab07bee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bac4d0a636c64ab6275ca44c434f4803e9d6563d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/13099988b88fcffa3d330cdac2d0564c33ed0132/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a86037d8cae9f373e28a1724b6fb81f79718d011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0d3a0aa110b4be2e29728926ee0616a768ba816c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_b54dec6aec889e3903da20e8196ae7f270b6de3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/46a5984bcc280e007f5a0d9e371fba11dc5d1b4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0ce9eb9093c277afe20125dfb82f0e9880cb360/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a94306b9da31ff990eda9fcc1458df79292e4ced">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4c853c49892e78b0eaa693b6d2b931f5af91b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/70952024f6fee2abcfc4729c148b7db55498045f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e98e74473254d374ef365ccc1772cb76d0a9437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/97eff6fa086cc272508f03b57a529b1a31de4054/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95eb3c0200262109bbece093542c839556ea1428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/6ef922178dbb88ea7aa970fe4531c951494c6d62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17c78d0be376a050a21f884d91a4d758a5769144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/m/a/malik2/.android/build-cache/303df12849d16d5eba49a58da08c9554d1f2c8c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/afs/ualberta.ca/home/m/a/malik2/cmput301/malik2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12d5b2b372811ae5efd859b2a5d1db188c10ae6d/classes.dex" />
+    </item>
+
+</items>
